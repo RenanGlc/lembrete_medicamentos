@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016272838679",
+    "project_id": "lembrete-medicamentos",
+    "storage_bucket": "lembrete-medicamentos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016272838679:android:7cf6cbc0b9da0c7049fc52",
+        "android_client_info": {
+          "package_name": "com.example.lembrete_medicamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016272838679-qt9t0mmcfeepogcij4vm1gqej3dldhvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpBxAB2CxMIs0XuRJOfl0GjFxxrnrSo24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016272838679-qt9t0mmcfeepogcij4vm1gqej3dldhvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
